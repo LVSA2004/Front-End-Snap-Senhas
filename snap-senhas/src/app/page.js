@@ -1,7 +1,6 @@
 import Link from "next/link";
 import InputText from "@/components/InputText";
 import { AuthContext } from "@/context/AuthContext";
-import toast from "react-hot-toast";
 import Button from "@/components/Button";
 
 export default function Login(){
